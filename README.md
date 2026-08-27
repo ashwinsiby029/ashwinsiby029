@@ -27,7 +27,7 @@ I enjoy understanding how systems work, finding vulnerabilities, analyzing netwo
 `Python` `C` `C++` `Java` `SQL` `JavaScript`
 
 ### 🛡️ Cybersecurity
-`Network Security` `Ethical Hacking` `Cryptography` `Wireshark` `Scapy`
+`Network Security` `Ethical Hacking` `Cryptography` `Cisco Packet Tracer` `Wireshark` `Scapy`
 
 ### 🌐 Web & Backend
 `HTML` `CSS` `JavaScript` `Django` `RestAPI` `Flask`
@@ -52,11 +52,11 @@ A Python-based NIDS designed to detect common network attacks and suspicious tra
 
 ---
 
-🌐 Cyber Fraud Detection System
+### 🌐 Cyber Fraud Detection System
 
 A full-stack web-based Cyber Fraud Detection System designed to analyze fraud reports and assess potentially fraudulent activities through a secure and user-friendly platform.
 
-Features:
+**Features:**
 
 🔍 Cyber fraud detection and analysis
 📊 Fraud risk assessment
@@ -65,7 +65,7 @@ Features:
 🗄️ Database integration
 🐳 Dockerized deployment
 
-Built with: Django • FastAPI • SQLite • SQLAlchemy • Docker • REST API
+Built with: Django • RestAPI • SQLite • SQLAlchemy • Docker
 
 ---
 
