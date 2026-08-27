@@ -2,7 +2,7 @@
 
 ### 🎓 Master's Cybersecurity Student | 🛡️ Cybersecurity Enthusiast | 💻 Developer
 
-I'm a **Cybersecurity Master's student** with a background in **Computer Applications**, passionate about cybersecurity, ethical hacking, network security, and building secure applications.
+I'm a **Cybersecurity Master's student** with a background in **Computer Applications**, passionate about Cyber Security, Ethical Hacking, Network Security, and building secure applications.
 
 I enjoy understanding how systems work, finding vulnerabilities, analyzing network traffic, and developing practical security-focused solutions.
 
@@ -10,7 +10,7 @@ I enjoy understanding how systems work, finding vulnerabilities, analyzing netwo
 
 ## 🛡️ About Me
 
-- 🎓 Master's student in **Cybersecurity**
+- 🎓 Master's student in **Cybersecurity** at **Jaypee Institute of Information Technology (JIIT), Noida**
 - 🎓 BCA graduate from **Jaypee Institute of Information Technology (JIIT), Noida**
 - 🔐 Interested in **Cybersecurity, Ethical Hacking & Network Security**
 - 🌐 Exploring **Network Security, Digital Forensics & Web Security**
@@ -27,13 +27,13 @@ I enjoy understanding how systems work, finding vulnerabilities, analyzing netwo
 `Python` `C` `C++` `Java` `SQL` `JavaScript`
 
 ### 🛡️ Cybersecurity
-`Network Security` `Ethical Hacking` `Cryptography` `Digital Forensics` `Wireshark` `Scapy`
+`Network Security` `Ethical Hacking` `Cryptography` `Wireshark` `Scapy`
 
 ### 🌐 Web & Backend
-`HTML` `CSS` `JavaScript` `Django` `FastAPI` `Flask`
+`HTML` `CSS` `JavaScript` `Django` `RestAPI` `Flask`
 
 ### ⚙️ Tools & Technologies
-`Linux` `Git` `Docker` `AWS` `VMware` `MySQL` `SQLite` `MongoDB`
+`Linux` `Git` `AWS` `VMware` `MySQL` `SQLite` `MongoDB`
 
 ---
 
@@ -66,7 +66,6 @@ Building web applications with modern backend technologies, databases, APIs, and
 Cybersecurity
    ├── Network Security
    ├── Ethical Hacking
-   ├── Digital Forensics
    ├── Web Security
    └── Cryptography
 
@@ -84,14 +83,6 @@ Development
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashwinsiby029&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinsiby029&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashwinsiby029/ashwinsiby029/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
