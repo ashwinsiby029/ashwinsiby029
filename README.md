@@ -13,10 +13,10 @@ I enjoy understanding how systems work, finding vulnerabilities, analyzing netwo
 - 🎓 Master's student in **Cybersecurity** at **Jaypee Institute of Information Technology (JIIT), Noida**
 - 🎓 BCA graduate from **Jaypee Institute of Information Technology (JIIT), Noida**
 - 🔐 Interested in **Cybersecurity, Ethical Hacking & Network Security**
-- 🌐 Exploring **Network Security, Digital Forensics & Web Security**
+- 🌐 Exploring **Network Security, Penetration Testing, and Web Security**
 - 🐍 Comfortable with **Python** and other programming languages
-- 🐳 Experience with **Docker, Linux & AWS**
-- 📡 Interested in **Networking, Traffic Analysis & Intrusion Detection**
+- 🐳 Experience with **Kali Linux, Ubuntu, Cisco Packet Tracer, and Wireshark**
+- 📡 Interested in **Networking, Traffic Analysis & Intrusion Detection/Prevention**
 - 🚀 Always learning, building, and experimenting
 
 ---
@@ -33,7 +33,7 @@ I enjoy understanding how systems work, finding vulnerabilities, analyzing netwo
 `HTML` `CSS` `JavaScript` `Django` `RestAPI` `Flask`
 
 ### ⚙️ Tools & Technologies
-`Linux` `Git` `AWS` `VMware` `MySQL` `SQLite` `MongoDB`
+`Linux` `VMware` `Wireshark` `Cisco Packet Tracer` `Git` `MySQL` `SQLite` `MongoDB`
 
 ---
 
@@ -41,7 +41,7 @@ I enjoy understanding how systems work, finding vulnerabilities, analyzing netwo
 
 ### 🛡️ Network Intrusion Detection System
 
-A Python-based IDS designed to detect common network attacks and suspicious traffic.
+A Python-based NIDS designed to detect common network attacks and suspicious traffic.
 
 **Detects:**
 - 🔴 Ping Flood
@@ -56,7 +56,7 @@ A Python-based IDS designed to detect common network attacks and suspicious traf
 
 Building web applications with modern backend technologies, databases, APIs, and containerized deployments.
 
-**Technologies:** Django • FastAPI • SQLite • Docker • AWS
+**Technologies:** Django • RestAPI • SQLite • MongoDB • Docker • AWS
 
 ---
 
@@ -67,13 +67,9 @@ Cybersecurity
    ├── Network Security
    ├── Ethical Hacking
    ├── Web Security
-   └── Cryptography
+   ├── Cryptography
+   └── Python libraries
 
-Development
-   ├── Python
-   ├── Backend Development
-   ├── Docker
-   └── Cloud / AWS
 ```
 
 ---
@@ -89,7 +85,7 @@ Development
 
 ## 🤝 Let's Connect
 
-I'm always interested in **cybersecurity, open-source projects, technology, and learning opportunities**.
+I'm always interested in **Cybersecurity, Open-Source projects, Technologies, and learning opportunities**.
 
 📧 **Email:** ashwinsiby029@gmail.com 
 💼 **LinkedIn:** www.linkedin.com/in/ashwin-siby  
