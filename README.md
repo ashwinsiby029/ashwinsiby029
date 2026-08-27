@@ -52,11 +52,20 @@ A Python-based NIDS designed to detect common network attacks and suspicious tra
 
 ---
 
-### 🌐 Secure Web Applications
+🌐 Cyber Fraud Detection System
 
-Building web applications with modern backend technologies, databases, APIs, and containerized deployments.
+A full-stack web-based Cyber Fraud Detection System designed to analyze fraud reports and assess potentially fraudulent activities through a secure and user-friendly platform.
 
-**Technologies:** Django • RestAPI • SQLite • MongoDB • Docker • AWS
+Features:
+
+🔍 Cyber fraud detection and analysis
+📊 Fraud risk assessment
+📝 Fraud report management
+⚡ REST API-based backend
+🗄️ Database integration
+🐳 Dockerized deployment
+
+Built with: Django • FastAPI • SQLite • SQLAlchemy • Docker • REST API
 
 ---
 
